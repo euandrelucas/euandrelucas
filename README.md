@@ -13,7 +13,7 @@
 ## ❓ Can you help me?
 > Yes, I'm always in a good mood if you want some help you can add me on discord: ADG#3474
 ## 🐦 Github Status:
-![languages] ![profile]
+![profile] ![languages]
 
-[languages]: https://github-readme-stats.vercel.app/api/top-langs/?username=yADGithub&theme=midnight-purple
 [profile]: https://github-readme-stats.vercel.app/api?username=yADGithub&show_icons=true&theme=midnight-purple
+[languages]: https://github-readme-stats.vercel.app/api/top-langs/?username=yADGithub&theme=midnight-purple

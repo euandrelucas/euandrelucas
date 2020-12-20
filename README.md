@@ -7,7 +7,7 @@
 </p>
 
 ## 🤔 Who are you?
-> I am a javascript and html developer, currently I am focused on bots for [discord](https://discord.com/)
+> I am a [javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) and [html](https://www.w3schools.com/html/) developer, currently I am focused on bots for [discord](https://discord.com/)
 ## 💻 Which npm do you use?
 > Currently I use the npm of [discord.js](https://www.npmjs.com/package/discord.js), but I feel like learning the [eris](https://www.npmjs.com/package/eris)
 ## ❓ Can you help me?

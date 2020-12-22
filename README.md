@@ -8,10 +8,10 @@
 
 ## 🤔 Who are you?
 > I am a [javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) and [html](https://www.w3schools.com/html/) developer, currently I am focused on bots for [discord](https://discord.com/)
-## 💻 Which npm do you use?
-> Currently I use the npm of [discord.js](https://www.npmjs.com/package/discord.js), but I feel like learning the [eris](https://www.npmjs.com/package/eris)
+## 💻 Which library do you use?
+> Currently I use the [discord.js](https://www.npmjs.com/package/discord.js) lib, but I wan't to learn [eris](https://www.npmjs.com/package/eris)
 ## ❓ Can you help me?
-> Yes, I'm always in a good mood if you want some help you can add me on discord: **ADG#3474**
+> Yes, I'm always in a good mood if you want some help you can add me as friend on Discord: **ADG#3474**
 ## 🐦 Github Status:
 ![profile] ![languages]
 

@@ -39,9 +39,8 @@
 
 <center>
 
-    <a href="https://listcord.gg/x/star">Star™</a>
-    
-    <a href="https://top.gg/bot/749953394894045254">Giveaway</a>
+<a href="https://listcord.gg/x/star">Star™</a>
+<a href="https://top.gg/bot/749953394894045254">Giveaway</a>
                                                                                                                            
 </center>
     

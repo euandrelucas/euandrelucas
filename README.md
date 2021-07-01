@@ -7,11 +7,11 @@
 </p>
 
 ## 🤔 Who are you?
-> I am a [javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) and [java](https://www.java.com/pt-BR/) developer, currently I am focused on bots for [discord](https://discord.com/)
+- I am a [javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) and [java](https://www.java.com/pt-BR/) developer, currently I am focused on bots for [discord](https://discord.com/)
 ## 💻 Which package do you use?
-> Currently I use the package of [eris](https://www.npmjs.com/package/eris), but i also know how to use [discord.js](https://www.npmjs.com/package/discord.js)
+- Currently I use the package of [eris](https://www.npmjs.com/package/eris), but i also know how to use [discord.js](https://www.npmjs.com/package/discord.js)
 ## ❓ Can you help me?
-> Yes, I'm always in a good mood if you want some help you can add me on discord: [**ADG#3474**](https://discord.com/users/717766639260532826)
+- Yes, I'm always in a good mood if you want some help you can add me on discord: [**ADG#3474**](https://discord.com/users/717766639260532826)
 ## 🐦 Github Status:
 ![languages] ![profile]
 

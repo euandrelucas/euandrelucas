@@ -12,7 +12,7 @@
 - Currently I use the package of [eris](https://www.npmjs.com/package/eris), but i also know how to use [discord.js](https://www.npmjs.com/package/discord.js)
 ## ❓ Can you help me?
 - Yes, I'm always in a good mood if you want some help you can add me on discord: [**ADG#3474**](https://discord.com/users/717766639260532826)
-## 🐦 Github Status:
+<summary>🐦 Github Status:</summary>
 ![languages] ![profile]
 
 [languages]: https://github-readme-stats.vercel.app/api/top-langs/?username=yADGithub&theme=transparent

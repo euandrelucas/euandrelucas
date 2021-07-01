@@ -16,7 +16,7 @@
 <hr>
 
 <details>
-<summary>🐦 Github Status:</summary>
+    <summary><h1>🐦 Github Status:</h1></summary>
     
 <br>
     

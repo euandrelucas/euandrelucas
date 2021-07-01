@@ -16,7 +16,10 @@
 <details>
 <summary>🐦 Github Status:</summary>
 <a href="https://github.com/yADGithub" align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yADGithub&theme=transparent" alt="top-langs">
 
-![](https://github-readme-stats.vercel.app/api?username=yADGithub&show_icons=true&theme=transparent)
+<center>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yADGithub&theme=transparent" alt="top-langs">
+<img src="https://github-readme-stats.vercel.app/api?username=yADGithub&show_icons=true&theme=transparent" alt="show_icons">
+</center>
+    
 </details>

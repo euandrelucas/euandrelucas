@@ -15,7 +15,6 @@
 
 <details>
 <summary>🐦 Github Status:</summary>
-<a href="https://github.com/yADGithub" align="center">
 
 <center>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yADGithub&theme=transparent" alt="top-langs">

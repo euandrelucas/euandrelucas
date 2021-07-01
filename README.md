@@ -15,8 +15,7 @@
 
 <details>
 <summary>🐦 Github Status:</summary>
-![languages] ![profile]
-
-[languages]: https://github-readme-stats.vercel.app/api/top-langs/?username=yADGithub&theme=transparent
-[profile]: https://github-readme-stats.vercel.app/api?username=yADGithub&show_icons=true&theme=transparent
+<a href="https://github.com/yADGithub" align="center">
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=yADGithub&theme=transparent)
+![](https://github-readme-stats.vercel.app/api?username=yADGithub&show_icons=true&theme=transparent)
 </details>

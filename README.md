@@ -1,9 +1,4 @@
 <h1 align="center">✨ Hi my name is ADG! ✨</h1>
-<style>
-    .img-container {
-        text-align: center;
-    }
-</style>
 <p align="center">
     <a href="https://top.gg/bot/719524114536333342">
         <img src="https://media.discordapp.net/attachments/719978696278278224/790326252745392128/starbanner.jpg?width=803&height=452" alt="Star™" />
@@ -27,11 +22,8 @@
     <br>
 
     <center>
-        <div class="img-container">
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yADGithub&theme=transparent" alt="top-langs">
-            <img src="https://github-readme-stats.vercel.app/api?username=yADGithub&show_icons=true&theme=transparent" alt="show_icons">
-        </div>
-
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yADGithub&theme=transparent" alt="top-langs" class="center">
+            <img src="https://github-readme-stats.vercel.app/api?username=yADGithub&show_icons=true&theme=transparent" alt="show_icons" class="center">
     </center>
 
 </details>

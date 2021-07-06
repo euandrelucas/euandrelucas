@@ -17,15 +17,9 @@
 ## 📋 Sumary:
 
 <details>
-    <summary>🐦 Github Status:</summary>
-
-    <br>
-
-    <center>
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yADGithub&theme=transparent" alt="top-langs" class="center">
-            <img src="https://github-readme-stats.vercel.app/api?username=yADGithub&show_icons=true&theme=transparent" alt="show_icons" class="center">
-    </center>
-
+<summary>🐦 Github Status:</summary>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yADGithub&theme=transparent" alt="top-langs" class="center">
+<img src="https://github-readme-stats.vercel.app/api?username=yADGithub&show_icons=true&theme=transparent" alt="show_icons" class="center">
 </details>
 
 <details>

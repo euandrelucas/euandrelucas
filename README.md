@@ -23,24 +23,14 @@
 </details>
 
 <details>
-    <summary>📋 Projects:</summary>
+<summary>📋 Projects:</summary>
+<br>
+<center>
 
-    <br>
+<a href="https://listcord.gg/x/star">Star™</a>
+<br>
+<a href="https://top.gg/bot/749953394894045254">Giveaway</a>
 
-    <center>
-
-        <a href="https://listcord.gg/x/star">Star™</a>
-        <br>
-        <a href="https://top.gg/bot/749953394894045254">Giveaway</a>
-
-    </center>
+</center>
 
 </details>
-<style>
-.center {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width: 50%;
-}
-</style>

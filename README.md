@@ -1,9 +1,13 @@
 <h1 align="center">✨ Hi my name is ADG! ✨</h1>
-
+<style>
+    .img-container {
+        text-align: center;
+    }
+</style>
 <p align="center">
-<a href="https://top.gg/bot/719524114536333342">
-    <img src="https://media.discordapp.net/attachments/719978696278278224/790326252745392128/starbanner.jpg?width=803&height=452" alt="Star™" />
-</a>
+    <a href="https://top.gg/bot/719524114536333342">
+        <img src="https://media.discordapp.net/attachments/719978696278278224/790326252745392128/starbanner.jpg?width=803&height=452" alt="Star™" />
+    </a>
 </p>
 
 ## 🤔 Who are you?
@@ -19,30 +23,30 @@
 
 <details>
     <summary>🐦 Github Status:</summary>
-    
-<br>
 
-<center>
+    <br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yADGithub&theme=transparent" alt="top-langs">
-    
-<img src="https://github-readme-stats.vercel.app/api?username=yADGithub&show_icons=true&theme=transparent" alt="show_icons">   
-                                                                                                                           
-</center>
-    
+    <center>
+        <div class="img-container">
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yADGithub&theme=transparent" alt="top-langs">
+            <img src="https://github-readme-stats.vercel.app/api?username=yADGithub&show_icons=true&theme=transparent" alt="show_icons">
+        </div>
+
+    </center>
+
 </details>
 
 <details>
     <summary>📋 Projects:</summary>
-    
-<br>
 
-<center>
+    <br>
 
-<a href="https://listcord.gg/x/star">Star™</a>
-<br>
-<a href="https://top.gg/bot/749953394894045254">Giveaway</a>
-                                                                                                                           
-</center>
-    
+    <center>
+
+        <a href="https://listcord.gg/x/star">Star™</a>
+        <br>
+        <a href="https://top.gg/bot/749953394894045254">Giveaway</a>
+
+    </center>
+
 </details>

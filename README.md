@@ -22,6 +22,12 @@
 <img src="https://github-readme-stats.vercel.app/api?username=yADGithub&show_icons=true&theme=transparent" alt="show_icons" class="center">
 </details>
 
+
+<details>
+<summary>🐦 Discord Status:</summary>
+<img src="https://discord.c99.nl/widget/theme-1/717766639260532826.png" alt="top-langs" class="center">
+</details>
+
 <details>
 <summary>📋 Projects:</summary>
 <br>

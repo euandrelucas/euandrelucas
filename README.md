@@ -1,6 +1,6 @@
 <h1 align="center">✨ Hi my name is ADG! ✨</h1>
 <p align="center">
-    <a href="https://top.gg/bot/719524114536333342">
+    <a href="https://www.adgdeveloper.tk/">
         <img src="https://imgur.com/dFiOG8o.png" alt="ADG" />
     </a>
 </p>

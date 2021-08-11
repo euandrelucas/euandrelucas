@@ -1,7 +1,7 @@
 <h1 align="center">✨ Hi my name is ADG! ✨</h1>
 <p align="center">
     <a href="https://top.gg/bot/719524114536333342">
-        <img src="https://media.discordapp.net/attachments/719978696278278224/790326252745392128/starbanner.jpg?width=803&height=452" alt="Star™" />
+        <img src="https://imgur.com/dFiOG8o.png" alt="ADG" />
     </a>
 </p>
 

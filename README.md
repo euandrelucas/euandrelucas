@@ -25,7 +25,7 @@
 
 <details>
 <summary>🐦 Discord Status:</summary>
-<img src="https://discord.c99.nl/widget/theme-1/717766639260532826.png" alt="top-langs" class="center">
+<a href='https://discord.com/users/717766639260532826'><img src="https://discord.c99.nl/widget/theme-1/717766639260532826.png" alt="top-langs" class="center"></a>
 </details>
 
 <details>

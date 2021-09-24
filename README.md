@@ -30,9 +30,7 @@
 <br>
 <center>
 
-<a href="https://listcord.gg/x/star">Star™</a>
-<br>
-<a href="https://top.gg/bot/749953394894045254">Giveaway</a>
+<a href="https://zulybot.xyz/">Zuly</a>
 
 </center>
 

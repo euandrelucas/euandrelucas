@@ -15,14 +15,18 @@
 
 <details>
 <summary>🐦 Github Status:</summary>
-<img src="https://github-readme-stats.vercel.app/api?username=andrelucaas&show_icons=true&theme=transparent" alt="show_icons" class="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrelucaas&theme=transparent" alt="top-langs" class="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=andrelucaas&show_icons=true&theme=transparent" alt="show_icons" class="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrelucaas&theme=transparent" alt="top-langs" class="center">
 </details>
 
+<details>
+  <summary>💻 Top Langs:</summary>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrelucaas&theme=transparent" alt="top-langs" class="center">
+</details>
 
 <details>
 <summary>💬 Discord Status:</summary>
-<a href='https://discord.com/users/726449359167684734'><img src="https://discord.c99.nl/widget/theme-1/726449359167684734.png" alt="top-langs" class="center"></a>
+  <a href='https://discord.com/users/726449359167684734'><img src="https://discord.c99.nl/widget/theme-1/726449359167684734.png" alt="top-langs" class="center"></a>
 </details>
 
 <details>

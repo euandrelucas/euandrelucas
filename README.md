@@ -30,7 +30,8 @@
 <br>
 <center>
 
-<a href="https://zulybot.xyz/">Zuly</a>
+- <a href="https://zulybot.xyz/">Zuly</a>
+- <a href="https://adgdeveloper.tk/">Portfolio</a>
 
 </center>
 

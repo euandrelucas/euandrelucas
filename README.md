@@ -9,8 +9,6 @@
 ## ❓ Can you help me?
 - Yes, I'm always in a good mood if you want some help you can add me on discord: [**And.#0001**](https://discord.com/users/717766639260532826)
 
-<hr>
-
 ## 📋 Sumary:
 
 <details>

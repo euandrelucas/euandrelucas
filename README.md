@@ -13,12 +13,12 @@
 
 <details>
 <summary>🐦 Github Status:</summary>
-  <img src="https://github-readme-stats.vercel.app/api?username=andrelucaas&show_icons=true&theme=transparent" alt="git-status" class="center">
-</details>
-
-<details>
-  <summary>💻 Top Langs:</summary>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrelucaas&theme=transparent" alt="top-langs" class="center">
+  <center>
+  <img src="https://github-readme-stats.vercel.app/api?username=andrelucaas&show_icons=true&theme=transparent&layout=compact" alt="git-status" class="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrelucaas&theme=transparent&layout=compact" alt="top-langs" class="center">
+  <br>
+  <img src="https://github.com/andrelucaas/andrelucaas/blob/output/github-contribution-grid-snake.svg" alt="top-langs" class="center">
+  </center>
 </details>
 
 <details>

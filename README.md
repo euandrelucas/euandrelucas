@@ -1,7 +1,7 @@
 <h1 align="center">✨ Howdy, my name is ADG! ✨</h1>
 
 <p align="center">
-    <img src="https://cardivo.vercel.app/api?name=ADG&description=Hello%20my%20name%20is%20ADG%20I%20am%20a%20JavaScript%20programmer&image=https://avatars.githubusercontent.com/u/65923257?v=4&site=https://adgdeveloper.tk&github=andrelucaas&instagram=4ndre_piloto&twitter=4DG_YT" alt="adg-banner">
+    <img src="https://cardivo.vercel.app/api?name=ADG&description=Hello%20my%20name%20is%20ADG%20I%20am%20a%20JavaScript%20programmer&image=https://avatars.githubusercontent.com/u/65923257?v=4&site=https://adgdev.me&github=andrelucaas&instagram=4ndre_piloto&twitter=4DG_YT" alt="adg-banner">
     <a href='https://discord.com/users/726449359167684734'><img src="https://discord.c99.nl/widget/theme-3/726449359167684734.png" alt="top-langs"></a>
 </p>
 

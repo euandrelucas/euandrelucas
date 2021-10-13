@@ -20,7 +20,7 @@
     <br>
     <br>
     <img src="https://github-readme-stats.vercel.app/api?username=andrelucaas&show_icons=true&theme=transparent&layout=compact" alt="git-status" class="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrelucaas&theme=transparent&layout=compact" alt="top-langs" class="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrelucaas&theme=transparent&layout=compact&langs_count=7" alt="top-langs" class="center">
     <br>
     <img src="https://github.com/andrelucaas/andrelucaas/blob/output/github-contribution-grid-snake.svg" alt="top-langs" class="center">
 </p>

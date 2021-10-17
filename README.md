@@ -5,6 +5,11 @@
     <a href='https://discord.com/users/726449359167684734'><img src="https://discord.c99.nl/widget/theme-3/726449359167684734.png" alt="top-langs"></a>
 </p>
 
+## 🛒 Buy me a game
+<p align="center">
+<a target="blank" href="https://steamcommunity.com/id/yadg/"><img src="https://raw.githubusercontent.com/Guaxinim5573/Guaxinim5573/master/assets/steam.png"></a>   <a target="blank" href="https://account.xbox.com/profile?gamertag=yADG6816"><img src="https://raw.githubusercontent.com/Guaxinim5573/Guaxinim5573/master/assets/xbox.png"></a>
+</p>
+
 ## 🤔 Who are you?
 - I am a [javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) and [java](https://www.java.com/pt-BR/) developer, currently I am focused on bots for [discord](https://discord.com/)
 ## 💻 Which wrapper do you use?

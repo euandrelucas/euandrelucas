@@ -7,7 +7,7 @@
 
 ## 🛒 Buy me a game
 <p align="center">
-<a target="blank" href="https://steamcommunity.com/id/yadg/"><img src="https://raw.githubusercontent.com/Guaxinim5573/Guaxinim5573/master/assets/steam.png"></a>   <a target="blank" href="https://account.xbox.com/profile?gamertag=yADG6816"><img src="https://raw.githubusercontent.com/Guaxinim5573/Guaxinim5573/master/assets/xbox.png"></a>
+    <a target="blank" href="https://steamcommunity.com/id/yadg/"><img src="https://raw.githubusercontent.com/Guaxinim5573/Guaxinim5573/master/assets/steam.png"></a> <a target="blank" href="https://account.xbox.com/profile?gamertag=yADG6816"><img src="https://raw.githubusercontent.com/Guaxinim5573/Guaxinim5573/master/assets/xbox.png"></a>
 </p>
 
 ## 🤔 Who are you?

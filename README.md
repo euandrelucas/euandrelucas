@@ -1,22 +1,33 @@
-<h1 align="center">✨ Howdy, my name is ADG! ✨</h1>
-
 <p align="center">
     <img src="https://cardivo.vercel.app/api?name=ADG&description=Hello%20my%20name%20is%20ADG%20I%20am%20a%20JavaScript%20programmer&image=https://avatars.githubusercontent.com/u/65923257?v=4&site=https://adgdev.me&github=andrelucaas&instagram=4ndre_piloto&twitter=4DG_YT" alt="adg-banner">
     <a href='https://discord.com/users/717766639260532826'><img src="https://discord.c99.nl/widget/theme-3/717766639260532826.png" alt="top-langs"></a>
 </p>
 
-## 🛒 Buy me a game
-<p align="center">
-    <a target="blank" href="https://steamcommunity.com/id/yadg/"><img src="https://raw.githubusercontent.com/Guaxinim5573/Guaxinim5573/master/assets/steam.png"></a> <a target="blank" href="https://account.xbox.com/profile?gamertag=yADG6816"><img src="https://raw.githubusercontent.com/Guaxinim5573/Guaxinim5573/master/assets/xbox.png"></a>
-</p>
-
-## 🤔 Who are you?
+### 🤔 Who are you?
 - I am a [javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) and [java](https://www.java.com/pt-BR/) developer, currently I am focused on bots for [discord](https://discord.com/)
-## 💻 Which wrapper do you use?
+### 💻 Which wrapper do you use?
 - Currently I use the wrapper [eris](https://www.npmjs.com/package/eris), but i also know how to use [discord.js](https://www.npmjs.com/package/discord.js)
-## ❓ Can you help me?
-- Yes, I'm always in a good mood if you want some help you can add me on discord: [**ADG#3474**](https://discord.com/users/717766639260532826)
+### ❓ Can you help me?
+- Yes, I'm always in a good mood if you want some help you can add me on discord: [**ADG#0001**](https://discord.com/users/717766639260532826)
+### 🔧 Tools:
+
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![JavaScript](https://img.shields.io/badge/typescript-%23323330.svg?style=for-the-badge&logo=typescript&logoColor=%23007acc)
+![Java](https://img.shields.io/badge/java-purple.svg?style=for-the-badge&logo=java&logoColor=%23D0A384)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
+![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+  
+![Ubuntu](https://img.shields.io/badge/Ubuntu-333333?style=for-the-badge&logo=ubuntu&logoColor=%23DD4814)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 <hr>
+
 <p align="center">
     <a href="https://github.com/andrelucaas">
         <img align="center" alt="Follow" src="https://img.shields.io/github/followers/andrelucaas?style=flat&amp;logo=github&amp;label=Followers&amp;color=2D76BF">

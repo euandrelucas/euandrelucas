@@ -1,5 +1,4 @@
 <p align="center">
-    <img src="https://cardivo.vercel.app/api?name=ADG&description=Hello%20my%20name%20is%20ADG%20I%20am%20a%20JavaScript%20programmer&image=https://avatars.githubusercontent.com/u/65923257?v=4&site=https://adgdev.me&github=andrelucaas&instagram=4ndre_piloto&twitter=4DG_YT" alt="adg-banner">
     <a href='https://discord.com/users/717766639260532826'><img src="https://discord.c99.nl/widget/theme-3/717766639260532826.png" alt="top-langs"></a>
     <br />
     <a href="https://github.com/andrelucaas">
@@ -13,7 +12,7 @@
 ### 💻 › Which wrapper do you use?
 - Currently I use the wrapper [eris](https://www.npmjs.com/package/eris), but i also know how to use [discord.js](https://www.npmjs.com/package/discord.js)
 ### ❓ › Can you help me?
-- Yes, I'm always in a good mood if you want some help you can add me on discord: [**ADG#0001**](https://discord.com/users/717766639260532826)
+- Yes, I'm always in a good mood if you want some help you can add me on discord: [**ADG#3639**](https://discord.com/users/717766639260532826)
 ### 🔧 › Tools:
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -33,8 +32,8 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 <p align="center">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=andrelucaas&show_icons=true&theme=transparent&layout=compact" alt="git-status" class="center">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrelucaas&theme=transparent&layout=compact&langs_count=7" alt="top-langs" class="center">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=andrelucaas&show_icons=true&theme=dark&layout=compact" alt="git-status" class="center">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrelucaas&theme=dark&layout=compact&langs_count=7" alt="top-langs" class="center">
     <br />
     <img src="https://github.com/andrelucaas/andrelucaas/blob/output/github-contribution-grid-snake.svg" alt="snakegame" class="center">
 </p>

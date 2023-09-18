@@ -12,7 +12,7 @@
 ### 💻 › Which wrapper do you use?
 - Currently I use the wrapper [eris](https://www.npmjs.com/package/eris), but i also know how to use [discord.js](https://www.npmjs.com/package/discord.js)
 ### ❓ › Can you help me?
-- Yes, I'm always in a good mood if you want some help you can add me on discord: [**ADG#3639**](https://discord.com/users/717766639260532826)
+- Yes, I'm always in a good mood if you want some help you can add me on discord: [**@adrequigames**](https://discord.com/users/717766639260532826)
 ### 🔧 › Tools:
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)

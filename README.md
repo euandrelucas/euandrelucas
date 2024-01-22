@@ -1,18 +1,21 @@
 <p align="center">
     <a href='https://discord.com/users/717766639260532826'><img src="https://discord.c99.nl/widget/theme-3/717766639260532826.png" alt="top-langs"></a>
     <br />
-    <a href="https://github.com/andrelucaas">
+    <a href="https://github.com/euandrelucas">
         <img align="center" alt="Follow" src="https://img.shields.io/github/followers/euandrelucas?style=flat&amp;logo=github&amp;label=Followers&amp;color=2D76BF">
         <img align="center" alt="Visitors" src="https://komarev.com/ghpvc/?username=andrelucaas">
     </a>
 </p>
 
 ### 🤔 › Who are you?
-- I am a [javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) and [java](https://www.java.com/pt-BR/) developer, currently I am focused on bots for [discord](https://discord.com/)
+- I'm a [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript), [Java](https://www.java.com/pt-BR/) and [C#](https://learn.microsoft.com/en-us/dotnet/csharp/) (for Unity) developer. Currently, I am focused on creating bots for [Discord](https://discord.com/).
 ### 💻 › Which wrapper do you use?
-- Currently I use the wrapper [eris](https://www.npmjs.com/package/eris), but i also know how to use [discord.js](https://www.npmjs.com/package/discord.js)
+- Currently, I use the [eris](https://www.npmjs.com/package/eris) wrapper, but I also know how to use [discord.js](https://www.npmjs.com/package/discord.js).
 ### ❓ › Can you help me?
-- Yes, I'm always in a good mood if you want some help you can add me on discord: [**@adrequigames**](https://discord.com/users/717766639260532826)
+- Yes, I'm always in a good mood if you want some help you can add me on discord: [**@adrequigames**](https://discord.com/users/717766639260532826).
+### 💻 › Projetcts:
+- [DreamTeam](https://github.com/BotDreamTeam) ~ https://dreamteam.futbol;
+- [RescanBot](https://discord.gg/NPC79cHWva).
 ### 🔧 › Tools:
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)

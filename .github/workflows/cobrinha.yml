@@ -13,7 +13,7 @@ jobs:
       # Animação de Cobra
       - uses: Platane/snk@v3
         with:
-          github_user_name: euandrelucaas
+          github_user_name: euandrelucas
           outputs: |
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark

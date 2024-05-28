@@ -1,10 +1,8 @@
 <p align="center">
     <a href='https://discord.com/users/717766639260532826'><img src="https://discord.c99.nl/widget/theme-3/717766639260532826.png" alt="top-langs"></a>
-    <br />
-    <a href="https://github.com/euandrelucas">
-        <img align="center" alt="Follow" src="https://img.shields.io/github/followers/euandrelucas?style=flat&amp;logo=github&amp;label=Followers&amp;color=2D76BF">
-        <img align="center" alt="Visitors" src="https://komarev.com/ghpvc/?username=andrelucaas">
-    </a>
+    <br/>
+    <img align="center" alt="Follow" src="https://img.shields.io/github/followers/euandrelucas?style=flat&amp;logo=github&amp;label=Followers&amp;color=2D76BF">
+    <img align="center" alt="Visitors" src="https://komarev.com/ghpvc/?username=andrelucaas">
 </p>
 
 ### 🤔 › Who are you?
@@ -38,5 +36,9 @@
 
 <a href="https://account.xbox.com/profile?gamertag=yADG6816" target="_blank">![Xbox](/xbox.png)</a>
 <a href="https://steamcommunity.com/id/yadg/" target="_blank">![Steam](/steam.png)</a>
+
+![Stats](https://github-readme-stats.vercel.app/api?username=euandrelucas&amp;show_icons=true&amp;locale=en)
+![Stats2](https://github-readme-stats.vercel.app/api/top-langs?username=euandrelucas&show_icons=true&locale=en&layout=compact)
+![Stats3](https://github-readme-streak-stats.herokuapp.com/?user=euandrelucas)
 
 ![Snake](https://github.com/euandrelucas/euandrelucas/blob/output/github-snake.svg)

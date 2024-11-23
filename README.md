@@ -8,10 +8,10 @@
 </p>
 
 ### 👨‍💻 › Who am I?
-- I'm a **Full Stack Developer** with expertise in [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript), [Java](https://www.java.com/pt-BR/), and [C#](https://learn.microsoft.com/en-us/dotnet/csharp/) (for Unity). My current focus is on building bots for [Discord](https://discord.com/).
+I'm a **Full Stack Developer** with a passion for coding in [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript), [Java](https://www.java.com/pt-BR/), and [C#](https://learn.microsoft.com/en-us/dotnet/csharp/) (for Unity). Currently, I’m diving deep into building bots for [Discord](https://discord.com/).
 
 ### 💬 › Need help?
-- I'm always happy to assist! You can reach out to me on [Discord](https://discord.com/users/717766639260532826) at **@adrequigames**.
+I'm here to help! Feel free to reach out on [Discord](https://discord.com/users/717766639260532826) at **@adrequigames** or via email at [contact@andrepaiva.dev](mailto:contact@andrepaiva.dev). I’m always happy to chat!
 
 ### 💻 › Projects
 - [DreamTeam](https://github.com/BotDreamTeam) — [dreamteam.futbol](https://dreamteam.futbol)
@@ -44,6 +44,12 @@
 
 ### 🎮 › Gamertag
 - [Xbox](https://account.xbox.com/profile?gamertag=yADG6816) | [Steam](https://steamcommunity.com/id/yadg/)
+
+### 📱 › Find Me Online
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andretpaiva/)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/4ndre.dev/)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/4DG_YT)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/euandrelucas)
 
 ### 📊 › Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=euandrelucas&show_icons=true&locale=en)

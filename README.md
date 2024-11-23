@@ -39,7 +39,7 @@ I'm here to help! Feel free to reach out on [Discord](https://discord.com/users/
 
 #### Operating Systems
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-333333?style=for-the-badge&logo=ubuntu&logoColor=%23DD4814)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows11&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=win11&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ### 🎮 › Gamertag

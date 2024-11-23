@@ -1,12 +1,3 @@
-<p align="center">
-    <a href='https://discord.com/users/717766639260532826'>
-        <img src="https://discord.c99.nl/widget/theme-3/717766639260532826.png" alt="Discord Profile">
-    </a>
-    <br />
-    <img align="center" alt="Follow" src="https://img.shields.io/github/followers/euandrelucas?style=flat&logo=github&label=Followers&color=2D76BF">
-    <img align="center" alt="Visitors" src="https://komarev.com/ghpvc/?username=andrelucaas">
-</p>
-
 ### 👨‍💻 › Who am I?
 I'm a **Full Stack Developer** with a passion for coding in [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript), [Java](https://www.java.com/pt-BR/), and [C#](https://learn.microsoft.com/en-us/dotnet/csharp/) (for Unity). Currently, I’m diving deep into building bots for [Discord](https://discord.com/).
 
